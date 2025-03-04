@@ -40,5 +40,7 @@ cd labChallenge
 Configurar la base de datos
 Abre phpMyAdmin (http://localhost/phpmyadmin/).
 Crea una nueva base de datos con el nombre informe_ventas.
+Ve a la pestaña Importar.
+Selecciona el archivo registros/informe_ventas.sql y ejecuta.
 
 
