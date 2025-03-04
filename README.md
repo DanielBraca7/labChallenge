@@ -21,19 +21,6 @@ MySQL
 Extensión TCPDF (incluida en la carpeta `tcpdf/`).  
 
 ---
-
-Como instalar y ejecutar el proyecto
-Clonar el repositorio
-```sh
-git clone https://github.com/DanielBraca7/labChallenge.git
-cd labChallenge
----
-Configurar la base de datos
-Abre phpMyAdmin (http://localhost/phpmyadmin/).
-Crea una nueva base de datos con el nombre informe_ventas.
-
----
-
 Capturas de pantalla
 
 ![Informe de Ventas](registros/assets/prueba1.png)
@@ -41,4 +28,17 @@ Capturas de pantalla
 
 Ejemplo de Reporte PDF
 ![Ejemplo de Reporte PDF](registros/assets/prueba3.png)
+
+---
+
+Como instalar y ejecutar el proyecto
+Clonar el repositorio
+```sh
+git clone https://github.com/DanielBraca7/labChallenge.git
+cd labChallenge
+
+Configurar la base de datos
+Abre phpMyAdmin (http://localhost/phpmyadmin/).
+Crea una nueva base de datos con el nombre informe_ventas.
+
 
