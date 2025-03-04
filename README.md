@@ -27,7 +27,7 @@ Clonar el repositorio
 ```sh
 git clone https://github.com/DanielBraca7/labChallenge.git
 cd labChallenge
-
+---
 Configurar la base de datos
 Abre phpMyAdmin (http://localhost/phpmyadmin/).
 Crea una nueva base de datos con el nombre informe_ventas.
