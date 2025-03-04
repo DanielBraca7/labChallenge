@@ -32,6 +32,8 @@ Configurar la base de datos
 Abre phpMyAdmin (http://localhost/phpmyadmin/).
 Crea una nueva base de datos con el nombre informe_ventas.
 
+---
+
 Capturas de pantalla
 
 ![Informe de Ventas](registros/assets/prueba1.png)
