@@ -6,6 +6,7 @@ Ademas, permite exportar los datos a PDF con TCPDF.
 ---
 
 Características
+
 Conexion segura a MySQL con PDO.  
 Extraccion y visualizacion de ventas en una tabla HTML bien organizada.  
 Exportacion de informes a PDF.  
